@@ -1,0 +1,1469 @@
+{
+  "BackgroundColor": {
+    "Blue": 255,
+    "Green": 255,
+    "Red": 0
+  },
+  "BackgroundImageFileName": null,
+  "DefaultKeyStyle": {
+    "Loose": {
+      "Background": {
+        "Blue": 0,
+        "Green": 0,
+        "Red": 0
+      },
+      "BackgroundImageFileName": "",
+      "Font": {
+        "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+        "FontFamily": "Chakra Petch",
+        "Size": 30,
+        "Style": 1
+      },
+      "Outline": {
+        "Blue": 0,
+        "Green": 0,
+        "Red": 0
+      },
+      "OutlineWidth": 1,
+      "ShowOutline": false,
+      "Text": {
+        "Blue": 255,
+        "Green": 255,
+        "Red": 255
+      }
+    },
+    "Pressed": {
+      "Background": {
+        "Blue": 0,
+        "Green": 0,
+        "Red": 0
+      },
+      "BackgroundImageFileName": "",
+      "Font": {
+        "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+        "FontFamily": "Chakra Petch",
+        "Size": 30,
+        "Style": 1
+      },
+      "Outline": {
+        "Blue": 0,
+        "Green": 0,
+        "Red": 0
+      },
+      "OutlineWidth": 1,
+      "ShowOutline": false,
+      "Text": {
+        "Blue": 255,
+        "Green": 255,
+        "Red": 255
+      }
+    }
+  },
+  "DefaultMouseSpeedIndicatorStyle": {
+    "InnerColor": {
+      "Blue": 0,
+      "Green": 0,
+      "Red": 0
+    },
+    "OuterColor": {
+      "Blue": 0,
+      "Green": 0,
+      "Red": 0
+    },
+    "OutlineWidth": 1
+  },
+  "ElementStyles": [
+    {
+      "Key": 0,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "SL4_.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "SL4.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 1,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "SL3_.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "SL3.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 12,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "SR3_.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "SR3.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 13,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "SR4_.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "SR4.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 2,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "L_.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "L.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 3,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "U_.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "U.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 4,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "D_.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "D.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 5,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "R_.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "R.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 6,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "SL1_.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "SL1.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 14,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "SR1_.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "SR1.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 15,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "L_.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "L.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 16,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "D_.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "D.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 17,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "U_.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "U.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 18,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "R_.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "R.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 7,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "L_i.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "Li.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 8,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "U_i.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "Ui.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 9,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "D_i.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "Di.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 10,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "R_i.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "Ri.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 11,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "SL2_.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 20,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "SL2.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 20,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 19,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "SR2_.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 20,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "SR2.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 20,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 20,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "L_i.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "Li.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 21,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "D_i.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "Di.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 22,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "U_i.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "Ui.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    },
+    {
+      "Key": 23,
+      "Value": {
+        "__type": "KeyStyle",
+        "Loose": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "R_i.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 255,
+            "Green": 255,
+            "Red": 255
+          }
+        },
+        "Pressed": {
+          "Background": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "BackgroundImageFileName": "Ri.png",
+          "Font": {
+            "DownloadUrl": "https:\/\/fonts.google.com\/specimen\/Chakra+Petch",
+            "FontFamily": "Chakra Petch",
+            "Size": 30,
+            "Style": 1
+          },
+          "Outline": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          },
+          "OutlineWidth": 1,
+          "ShowOutline": false,
+          "Text": {
+            "Blue": 0,
+            "Green": 0,
+            "Red": 0
+          }
+        }
+      }
+    }
+  ]
+}

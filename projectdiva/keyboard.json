@@ -1,0 +1,775 @@
+{
+  "Elements": [
+    {
+      "__type": "KeyboardKey",
+      "Id": 0,
+      "Boundaries": [
+        {
+          "X": 200,
+          "Y": 0
+        },
+        {
+          "X": 300,
+          "Y": 0
+        },
+        {
+          "X": 300,
+          "Y": 100
+        },
+        {
+          "X": 200,
+          "Y": 100
+        }
+      ],
+      "KeyCodes": [
+        89
+      ],
+      "Text": "Y",
+      "TextPosition": {
+        "X": 250,
+        "Y": 60
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "Y"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 1,
+      "Boundaries": [
+        {
+          "X": 300,
+          "Y": 0
+        },
+        {
+          "X": 400,
+          "Y": 0
+        },
+        {
+          "X": 400,
+          "Y": 100
+        },
+        {
+          "X": 300,
+          "Y": 100
+        }
+      ],
+      "KeyCodes": [
+        80
+      ],
+      "Text": "P",
+      "TextPosition": {
+        "X": 350,
+        "Y": 70
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "P"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 2,
+      "Boundaries": [
+        {
+          "X": 0,
+          "Y": 100
+        },
+        {
+          "X": 100,
+          "Y": 100
+        },
+        {
+          "X": 100,
+          "Y": 200
+        },
+        {
+          "X": 0,
+          "Y": 200
+        }
+      ],
+      "KeyCodes": [
+        67
+      ],
+      "Text": "C",
+      "TextPosition": {
+        "X": 50,
+        "Y": 150
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "C"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 3,
+      "Boundaries": [
+        {
+          "X": 100,
+          "Y": 100
+        },
+        {
+          "X": 200,
+          "Y": 100
+        },
+        {
+          "X": 200,
+          "Y": 200
+        },
+        {
+          "X": 100,
+          "Y": 200
+        }
+      ],
+      "KeyCodes": [
+        82
+      ],
+      "Text": "R",
+      "TextPosition": {
+        "X": 150,
+        "Y": 150
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "R"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 4,
+      "Boundaries": [
+        {
+          "X": 200,
+          "Y": 100
+        },
+        {
+          "X": 300,
+          "Y": 100
+        },
+        {
+          "X": 300,
+          "Y": 200
+        },
+        {
+          "X": 200,
+          "Y": 200
+        }
+      ],
+      "KeyCodes": [
+        83
+      ],
+      "Text": "S",
+      "TextPosition": {
+        "X": 250,
+        "Y": 150
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "S"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 5,
+      "Boundaries": [
+        {
+          "X": 300,
+          "Y": 100
+        },
+        {
+          "X": 400,
+          "Y": 100
+        },
+        {
+          "X": 400,
+          "Y": 200
+        },
+        {
+          "X": 300,
+          "Y": 200
+        }
+      ],
+      "KeyCodes": [
+        84
+      ],
+      "Text": "T",
+      "TextPosition": {
+        "X": 350,
+        "Y": 150
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "T"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 6,
+      "Boundaries": [
+        {
+          "X": 400,
+          "Y": 100
+        },
+        {
+          "X": 500,
+          "Y": 100
+        },
+        {
+          "X": 500,
+          "Y": 200
+        },
+        {
+          "X": 400,
+          "Y": 200
+        }
+      ],
+      "KeyCodes": [
+        71
+      ],
+      "Text": "G",
+      "TextPosition": {
+        "X": 445,
+        "Y": 150
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "G"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 7,
+      "Boundaries": [
+        {
+          "X": 0,
+          "Y": 200
+        },
+        {
+          "X": 100,
+          "Y": 200
+        },
+        {
+          "X": 100,
+          "Y": 300
+        },
+        {
+          "X": 0,
+          "Y": 300
+        }
+      ],
+      "KeyCodes": [
+        90
+      ],
+      "Text": "Z",
+      "TextPosition": {
+        "X": 50,
+        "Y": 250
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "Z"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 8,
+      "Boundaries": [
+        {
+          "X": 100,
+          "Y": 200
+        },
+        {
+          "X": 200,
+          "Y": 200
+        },
+        {
+          "X": 200,
+          "Y": 300
+        },
+        {
+          "X": 100,
+          "Y": 300
+        }
+      ],
+      "KeyCodes": [
+        87
+      ],
+      "Text": "W",
+      "TextPosition": {
+        "X": 150,
+        "Y": 250
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "W"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 9,
+      "Boundaries": [
+        {
+          "X": 200,
+          "Y": 200
+        },
+        {
+          "X": 300,
+          "Y": 200
+        },
+        {
+          "X": 300,
+          "Y": 300
+        },
+        {
+          "X": 200,
+          "Y": 300
+        }
+      ],
+      "KeyCodes": [
+        86
+      ],
+      "Text": "V",
+      "TextPosition": {
+        "X": 250,
+        "Y": 250
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "V"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 10,
+      "Boundaries": [
+        {
+          "X": 300,
+          "Y": 200
+        },
+        {
+          "X": 400,
+          "Y": 200
+        },
+        {
+          "X": 400,
+          "Y": 300
+        },
+        {
+          "X": 300,
+          "Y": 300
+        }
+      ],
+      "KeyCodes": [
+        68
+      ],
+      "Text": "D",
+      "TextPosition": {
+        "X": 350,
+        "Y": 250
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "D"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 11,
+      "Boundaries": [
+        {
+          "X": 400,
+          "Y": 200
+        },
+        {
+          "X": 500,
+          "Y": 200
+        },
+        {
+          "X": 500,
+          "Y": 300
+        },
+        {
+          "X": 400,
+          "Y": 300
+        }
+      ],
+      "KeyCodes": [
+        32
+      ],
+      "Text": "SPC",
+      "TextPosition": {
+        "X": 445,
+        "Y": 250
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "SPC"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 12,
+      "Boundaries": [
+        {
+          "X": 700,
+          "Y": 0
+        },
+        {
+          "X": 800,
+          "Y": 0
+        },
+        {
+          "X": 800,
+          "Y": 100
+        },
+        {
+          "X": 700,
+          "Y": 100
+        }
+      ],
+      "KeyCodes": [
+        70
+      ],
+      "Text": "F",
+      "TextPosition": {
+        "X": 750,
+        "Y": 70
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "F"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 13,
+      "Boundaries": [
+        {
+          "X": 800,
+          "Y": 0
+        },
+        {
+          "X": 900,
+          "Y": 0
+        },
+        {
+          "X": 900,
+          "Y": 100
+        },
+        {
+          "X": 800,
+          "Y": 100
+        }
+      ],
+      "KeyCodes": [
+        79
+      ],
+      "Text": "O",
+      "TextPosition": {
+        "X": 850,
+        "Y": 60
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "O"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 14,
+      "Boundaries": [
+        {
+          "X": 600,
+          "Y": 100
+        },
+        {
+          "X": 700,
+          "Y": 100
+        },
+        {
+          "X": 700,
+          "Y": 200
+        },
+        {
+          "X": 600,
+          "Y": 200
+        }
+      ],
+      "KeyCodes": [
+        77
+      ],
+      "Text": "M",
+      "TextPosition": {
+        "X": 655,
+        "Y": 150
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "M"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 15,
+      "Boundaries": [
+        {
+          "X": 700,
+          "Y": 100
+        },
+        {
+          "X": 800,
+          "Y": 100
+        },
+        {
+          "X": 800,
+          "Y": 200
+        },
+        {
+          "X": 700,
+          "Y": 200
+        }
+      ],
+      "KeyCodes": [
+        78
+      ],
+      "Text": "N",
+      "TextPosition": {
+        "X": 750,
+        "Y": 150
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "N"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 16,
+      "Boundaries": [
+        {
+          "X": 800,
+          "Y": 100
+        },
+        {
+          "X": 900,
+          "Y": 100
+        },
+        {
+          "X": 900,
+          "Y": 200
+        },
+        {
+          "X": 800,
+          "Y": 200
+        }
+      ],
+      "KeyCodes": [
+        69
+      ],
+      "Text": "E",
+      "TextPosition": {
+        "X": 850,
+        "Y": 150
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "E"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 17,
+      "Boundaries": [
+        {
+          "X": 900,
+          "Y": 100
+        },
+        {
+          "X": 1000,
+          "Y": 100
+        },
+        {
+          "X": 1000,
+          "Y": 200
+        },
+        {
+          "X": 900,
+          "Y": 200
+        }
+      ],
+      "KeyCodes": [
+        73
+      ],
+      "Text": "I",
+      "TextPosition": {
+        "X": 950,
+        "Y": 150
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "I"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 18,
+      "Boundaries": [
+        {
+          "X": 1000,
+          "Y": 100
+        },
+        {
+          "X": 1100,
+          "Y": 100
+        },
+        {
+          "X": 1100,
+          "Y": 200
+        },
+        {
+          "X": 1000,
+          "Y": 200
+        }
+      ],
+      "KeyCodes": [
+        65
+      ],
+      "Text": "A",
+      "TextPosition": {
+        "X": 1050,
+        "Y": 150
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "A"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 19,
+      "Boundaries": [
+        {
+          "X": 600,
+          "Y": 200
+        },
+        {
+          "X": 700,
+          "Y": 200
+        },
+        {
+          "X": 700,
+          "Y": 300
+        },
+        {
+          "X": 600,
+          "Y": 300
+        }
+      ],
+      "KeyCodes": [
+        13
+      ],
+      "Text": "RET",
+      "TextPosition": {
+        "X": 655,
+        "Y": 250
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "RET"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 20,
+      "Boundaries": [
+        {
+          "X": 700,
+          "Y": 200
+        },
+        {
+          "X": 800,
+          "Y": 200
+        },
+        {
+          "X": 800,
+          "Y": 300
+        },
+        {
+          "X": 700,
+          "Y": 300
+        }
+      ],
+      "KeyCodes": [
+        72
+      ],
+      "Text": "H",
+      "TextPosition": {
+        "X": 750,
+        "Y": 250
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "H"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 21,
+      "Boundaries": [
+        {
+          "X": 800,
+          "Y": 200
+        },
+        {
+          "X": 900,
+          "Y": 200
+        },
+        {
+          "X": 900,
+          "Y": 300
+        },
+        {
+          "X": 800,
+          "Y": 300
+        }
+      ],
+      "KeyCodes": [
+        191
+      ],
+      "Text": "\/",
+      "TextPosition": {
+        "X": 850,
+        "Y": 250
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "\/"
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 22,
+      "Boundaries": [
+        {
+          "X": 900,
+          "Y": 200
+        },
+        {
+          "X": 1000,
+          "Y": 200
+        },
+        {
+          "X": 1000,
+          "Y": 300
+        },
+        {
+          "X": 900,
+          "Y": 300
+        }
+      ],
+      "KeyCodes": [
+        188
+      ],
+      "Text": ",",
+      "TextPosition": {
+        "X": 950,
+        "Y": 250
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": ","
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 23,
+      "Boundaries": [
+        {
+          "X": 1000,
+          "Y": 200
+        },
+        {
+          "X": 1100,
+          "Y": 200
+        },
+        {
+          "X": 1100,
+          "Y": 300
+        },
+        {
+          "X": 1000,
+          "Y": 300
+        }
+      ],
+      "KeyCodes": [
+        190
+      ],
+      "Text": ".",
+      "TextPosition": {
+        "X": 1050,
+        "Y": 250
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "."
+    }
+  ],
+  "Height": 300,
+  "Version": 2,
+  "Width": 1100
+}
